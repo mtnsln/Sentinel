@@ -1,0 +1,3 @@
+
+# Sentinel uses only Python's standard library.
+# No third-party packages need to be installed.
